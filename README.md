@@ -10,3 +10,5 @@
 | Multi-Label & Multi-Class Classification   | https://github.com/lohzisan/Multi-Label-Classification   |
 
 
+## This is a placeholder repository containing the links to 6 private machine learning technique repositories. In order to access them, please feel free to request for access at cloh@usc.edu or Linkedin at https://www.linkedin.com/in/lohzisan/ 
+
